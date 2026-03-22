@@ -1,6 +1,6 @@
 # MAD-Project-AdeyCare
 
-**Tagline:** *Be healthy, bloom daily.*
+*Be healthy, bloom daily.*
 
 ## Project Description
 [Write 1–2 paragraphs summarizing your proposal]
