@@ -1,6 +1,6 @@
-# Bloomy - Health care App
+# EtCare - Health care App
 
-*Be healthy, bloom daily !*
+*Care that fits your life*
 
 
 ## Team Members & Roles
