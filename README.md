@@ -1,4 +1,4 @@
-# AdeyCare
+# Bloomy - Health care App
 
 *Be healthy, bloom daily.*
 
