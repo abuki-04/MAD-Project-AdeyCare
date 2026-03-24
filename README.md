@@ -19,4 +19,4 @@
 
 ## Links
 - [Figma Wireframes](https://www.figma.com/design/hWV3URNPb3AqYw6RYLQAJF/Untitled?node-id=0-1&t=wlVSPxKptjNDTYFS-1)
-- [Jira Board](https://your-domain.atlassian.net/...)
+- [Jira Board](https://abukiabubekr04.atlassian.net/jira/software/projects/SCRUM/boards/2?atlOrigin=eyJpIjoiMmM2MGE3MzJmNjllNGFiMzliOTMzN2QyZjUwNzdmYjYiLCJwIjoiaiJ9)
